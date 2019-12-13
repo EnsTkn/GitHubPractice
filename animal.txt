@@ -1,7 +1,0 @@
-cat
-dog
-donkey
-monkey
-1111
-222
-333
